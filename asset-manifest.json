@@ -1,23 +1,23 @@
 {
   "files": {
-    "static/js/0.8f61efe9.chunk.js": "/word_helper/static/js/0.8f61efe9.chunk.js",
-    "static/js/0.8f61efe9.chunk.js.map": "/word_helper/static/js/0.8f61efe9.chunk.js.map",
-    "static/js/1.6bd07d36.chunk.js": "/word_helper/static/js/1.6bd07d36.chunk.js",
-    "static/js/1.6bd07d36.chunk.js.map": "/word_helper/static/js/1.6bd07d36.chunk.js.map",
-    "main.js": "/word_helper/static/js/main.6ba0ccc9.chunk.js",
-    "main.js.map": "/word_helper/static/js/main.6ba0ccc9.chunk.js.map",
-    "runtime-main.js": "/word_helper/static/js/runtime-main.264080a5.js",
-    "runtime-main.js.map": "/word_helper/static/js/runtime-main.264080a5.js.map",
-    "static/js/4.ebc5ae1f.chunk.js": "/word_helper/static/js/4.ebc5ae1f.chunk.js",
-    "static/js/4.ebc5ae1f.chunk.js.map": "/word_helper/static/js/4.ebc5ae1f.chunk.js.map",
-    "index.html": "/word_helper/index.html",
-    "precache-manifest.3268c52189fd782b30fcb3838bc455be.js": "/word_helper/precache-manifest.3268c52189fd782b30fcb3838bc455be.js",
-    "service-worker.js": "/word_helper/service-worker.js",
-    "static/js/4.ebc5ae1f.chunk.js.LICENSE.txt": "/word_helper/static/js/4.ebc5ae1f.chunk.js.LICENSE.txt"
+    "static/js/0.8f61efe9.chunk.js": "/word-helper/static/js/0.8f61efe9.chunk.js",
+    "static/js/0.8f61efe9.chunk.js.map": "/word-helper/static/js/0.8f61efe9.chunk.js.map",
+    "static/js/1.6bd07d36.chunk.js": "/word-helper/static/js/1.6bd07d36.chunk.js",
+    "static/js/1.6bd07d36.chunk.js.map": "/word-helper/static/js/1.6bd07d36.chunk.js.map",
+    "main.js": "/word-helper/static/js/main.8e23d875.chunk.js",
+    "main.js.map": "/word-helper/static/js/main.8e23d875.chunk.js.map",
+    "runtime-main.js": "/word-helper/static/js/runtime-main.b42fccde.js",
+    "runtime-main.js.map": "/word-helper/static/js/runtime-main.b42fccde.js.map",
+    "static/js/4.ebc5ae1f.chunk.js": "/word-helper/static/js/4.ebc5ae1f.chunk.js",
+    "static/js/4.ebc5ae1f.chunk.js.map": "/word-helper/static/js/4.ebc5ae1f.chunk.js.map",
+    "index.html": "/word-helper/index.html",
+    "precache-manifest.1da886734ffa3146afc77f5667e60d2e.js": "/word-helper/precache-manifest.1da886734ffa3146afc77f5667e60d2e.js",
+    "service-worker.js": "/word-helper/service-worker.js",
+    "static/js/4.ebc5ae1f.chunk.js.LICENSE.txt": "/word-helper/static/js/4.ebc5ae1f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.264080a5.js",
+    "static/js/runtime-main.b42fccde.js",
     "static/js/4.ebc5ae1f.chunk.js",
-    "static/js/main.6ba0ccc9.chunk.js"
+    "static/js/main.8e23d875.chunk.js"
   ]
 }
