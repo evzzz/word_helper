@@ -6,7 +6,7 @@ export default () => {
   const [inputString, setInputString] = useState("");
 
   const appPlusBeforeWords = (input) => {
-    const prepositions = ["под", "на", "от", "для", "при", "у", "в"];
+    const prepositions = ["под", "на", "от", "для", "при", "у", "в", "и"];
 
     return input
       .split("\n")
@@ -14,7 +14,7 @@ export default () => {
         string
           .split(" ")
           .map((word) => word.trim())
-          .filter((word) => Boolean(word))
+          .filter((word) => Boolean(word) && word.indexOf('-') !== 0)
           .map((word) => (prepositions.includes(word) ? word : `+${word}`))
           .join(" ")
       )
@@ -29,6 +29,7 @@ export default () => {
           multiline
           rows={30}
           fullWidth
+          variant="outlined"
           value={inputString}
           onChange={(e) => setInputString(e.target.value)}
         />
@@ -40,6 +41,7 @@ export default () => {
           InputProps={{ readOnly: true }}
           rows={30}
           fullWidth
+          variant="outlined"
           value={appPlusBeforeWords(inputString)}
         />
       </Grid>
