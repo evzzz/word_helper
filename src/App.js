@@ -10,7 +10,10 @@ function App() {
     setActivTab(newValue);
   };
 
-  const tabs = [{ id: "AddPlusBeforeWords", name: "Добавить +" }];
+  const tabs = [
+      { id: "AddPlusBeforeWords", name: "Добавить +" },
+      { id: "MinusWords", name: "МинусСлова+" },
+  ];
 
   const tabsItems = tabs.map((tab) => <Tab label={tab.name} key={tab.id} />);
 
