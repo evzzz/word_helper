@@ -3,7 +3,7 @@ import FormWordsTransformation from "./FormWordsTransformation";
 
 export default () => {
   const appPlusBeforeWords = (input) => {
-    const prepositions = ["под", "на", "от", "для", "при", "у", "в", "и"];
+    const prepositions = ["под", "на", "от", "для", "при", "у", "в", "и", "к", "по"];
 
     return input
       .split("\n")
