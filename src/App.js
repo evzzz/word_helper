@@ -13,6 +13,7 @@ function App() {
   const tabs = [
       { id: "AddPlusBeforeWords", name: "Добавить +" },
       { id: "MinusWords", name: "МинусСлова+" },
+      { id: "AddMinusBeforeWords", name: "Добавить -" },
   ];
 
   const tabsItems = tabs.map((tab) => <Tab label={tab.name} key={tab.id} />);

@@ -7,12 +7,12 @@ export default ({transformWordsFunc}) => {
 
 
   return (
-    <Grid container spacing={4} justify="center">
+    <Grid container spacing={4} justifyContent="center">
       <Grid item xs={5}>
         <TextField
           label="Вход"
           multiline
-          rows={30}
+          minRows={30}
           fullWidth
           variant="outlined"
           value={inputString}
@@ -24,7 +24,7 @@ export default ({transformWordsFunc}) => {
           label="Выход"
           multiline
           InputProps={{ readOnly: true }}
-          rows={30}
+          minRows={30}
           fullWidth
           variant="outlined"
           value={transformWordsFunc(inputString)}
