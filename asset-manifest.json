@@ -1,7 +1,7 @@
 {
   "files": {
-    "static/js/0.6910d00d.chunk.js": "/word_helper/static/js/0.6910d00d.chunk.js",
-    "static/js/0.6910d00d.chunk.js.map": "/word_helper/static/js/0.6910d00d.chunk.js.map",
+    "static/js/0.d115da9a.chunk.js": "/word_helper/static/js/0.d115da9a.chunk.js",
+    "static/js/0.d115da9a.chunk.js.map": "/word_helper/static/js/0.d115da9a.chunk.js.map",
     "static/js/1.4c1067c0.chunk.js": "/word_helper/static/js/1.4c1067c0.chunk.js",
     "static/js/1.4c1067c0.chunk.js.map": "/word_helper/static/js/1.4c1067c0.chunk.js.map",
     "static/js/2.ef264eb3.chunk.js": "/word_helper/static/js/2.ef264eb3.chunk.js",
@@ -12,18 +12,18 @@
     "static/js/4.63c788f7.chunk.js.map": "/word_helper/static/js/4.63c788f7.chunk.js.map",
     "main.js": "/word_helper/static/js/main.bfdc5d57.chunk.js",
     "main.js.map": "/word_helper/static/js/main.bfdc5d57.chunk.js.map",
-    "runtime-main.js": "/word_helper/static/js/runtime-main.c5b8b6b5.js",
-    "runtime-main.js.map": "/word_helper/static/js/runtime-main.c5b8b6b5.js.map",
-    "static/js/7.45d284c8.chunk.js": "/word_helper/static/js/7.45d284c8.chunk.js",
-    "static/js/7.45d284c8.chunk.js.map": "/word_helper/static/js/7.45d284c8.chunk.js.map",
+    "runtime-main.js": "/word_helper/static/js/runtime-main.fcc0b0b7.js",
+    "runtime-main.js.map": "/word_helper/static/js/runtime-main.fcc0b0b7.js.map",
+    "static/js/7.9e896345.chunk.js": "/word_helper/static/js/7.9e896345.chunk.js",
+    "static/js/7.9e896345.chunk.js.map": "/word_helper/static/js/7.9e896345.chunk.js.map",
     "index.html": "/word_helper/index.html",
-    "precache-manifest.3fac730f44311050325b9562db4d8086.js": "/word_helper/precache-manifest.3fac730f44311050325b9562db4d8086.js",
+    "precache-manifest.925dc377057e0efa237f850dd14cb143.js": "/word_helper/precache-manifest.925dc377057e0efa237f850dd14cb143.js",
     "service-worker.js": "/word_helper/service-worker.js",
-    "static/js/7.45d284c8.chunk.js.LICENSE.txt": "/word_helper/static/js/7.45d284c8.chunk.js.LICENSE.txt"
+    "static/js/7.9e896345.chunk.js.LICENSE.txt": "/word_helper/static/js/7.9e896345.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5b8b6b5.js",
-    "static/js/7.45d284c8.chunk.js",
+    "static/js/runtime-main.fcc0b0b7.js",
+    "static/js/7.9e896345.chunk.js",
     "static/js/main.bfdc5d57.chunk.js"
   ]
 }
