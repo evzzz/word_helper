@@ -14,6 +14,7 @@ function App() {
       { id: "AddPlusBeforeWords", name: "Добавить +" },
       { id: "MinusWords", name: "МинусСлова+" },
       { id: "AddMinusBeforeWords", name: "Добавить -" },
+      { id: "Spelling", name: "Проверка орфографии" },
   ];
 
   const tabsItems = tabs.map((tab) => <Tab label={tab.name} key={tab.id} />);
